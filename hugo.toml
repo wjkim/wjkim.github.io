@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://wjkim.github.io/'
+languageCode = 'ko-kr'
+title = '다물의 디지털 세상'
+theme = "seotax"
