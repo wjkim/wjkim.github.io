@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/wjkim/wjkim.github.io
+	branch = source
