@@ -6,14 +6,10 @@ description: >
 
 cover: ""
 thumbnail: ""
-categories: [Story]
-tags: [Blog]
+categories: ["Story"]
+tags: ["Blog"]
 ---
 
-
-
 Hugo로 만든 Blog 입니다.
-
-
 
 Blog Tool 선택이 참 어렵네요.
