@@ -1,0 +1,101 @@
+baseURL: "https://wjkim.github.io/"
+title: "Damul's Story"
+description: "damul's digital world blog"
+copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
+
+theme: "seotax"
+defaultContentLanguage: "ko"
+languageCode: "ko-kr"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: "damul"
+  # author: ["Me", "You"] # multiple authors
+  keywords: ["damul", "Blog", "Data", "Engineering", "programming", "미니스토리", "블로그"]
+
+  favicon: "/images/favicons/favicon.ico"
+  images:
+    - "/images/profile/kwj_logo_person.png"
+
+  posts:
+    section: "posts"
+
+  assets:
+    favicon: "/images/favicons/favicon.ico"
+    favicon16x16: "/images/favicons/favicon-16x16.png"
+    favicon32x32: "/images/favicons/favicon-32x32.png"
+    apple_touch_icon: "/images/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/images/favicons/apple-touch-icon.png"
+
+  menu:
+    profileImage: "/images/profile/kwj_logi.png"
+    categories: true
+    recentPosts: true
+
+  social:
+    github: "https://github.com/wjkim"
+    twitter: "https://x.com/antihack"
+
+  comments:
+    enabled: true
+    disqusShortname: "damul"
+
+  i18nDir: "themes/seotax/i18n"
+
+  search:
+    enabled: true
+
+  serviceWorker: "precache"
+
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+  GoogleAnalytics:
+    tagId: "G-ZY0H7E8954"
+
+  searchEngine:
+    google:
+      siteVerificationTag: "u1tWcHmHUZWfFT1cHaku6sqU-bK40N3WLR-C-4VUWN0"
+    naver:
+      siteVerificationTag: "6eaf8e9da1a6104780f056f1a7797fe5a3a5a0da"
+    # bing:
+    #   siteVerificationTag: "XYZabc"
+    # yandex:
+    #   siteVerificationTag: "XYZabc"
+
+  schema:
+    publisherType: "Person"
+    sameAs:
+      #- "https://minyeamer.tistory.com/"
+      #- "https://velog.io/@minyeamer/posts"
+
+markup:
+  goldmark:
+    extensions:
+      typographer:
+        disable: true
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+permalinks:
+  posts: "/blog/:slugorcontentbasename/"
+
+disableKinds: ["term"]
+
+ignoreFiles: ["_page.md", "README.md", "archetypes/"]

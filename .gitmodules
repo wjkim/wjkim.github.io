@@ -4,5 +4,5 @@
 	branch = source
 [submodule "content"]
 	path = content
-	url = https://github.com/wjkim/wjkim.github.io
+	url = git@github.com:wjkim/wjkim.github.io
 	branch = content
