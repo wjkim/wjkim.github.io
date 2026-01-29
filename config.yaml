@@ -98,4 +98,4 @@ permalinks:
 
 disableKinds: ["term"]
 
-ignoreFiles: ["_page.md", "README.md", "archetypes/"]
+ignoreFiles: ["_page.md", "README.md"]
