@@ -6,3 +6,6 @@
 	path = content
 	url = git@github.com:wjkim/wjkim.github.io
 	branch = content
+[submodule "themes/seotax"]
+	path = themes/seotax
+	url = https://github.com/minyeamer/hugo-seotax
