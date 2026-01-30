@@ -4,8 +4,8 @@ date: "2026-01-29T15:01:35+09:00"
 layout: "post"
 description: >
 
-cover: "/images/posts/https://res.cloudinary.com/dg74fhkvn/image/upload/f_auto,q_auto,w_800/How_to_compress_and_decompress_a_file_in_CS_compres_ek1kgm.webp"
-thumbnail: "/images/posts/https://res.cloudinary.com/dg74fhkvn/image/upload/f_auto,q_auto,w_300/How_to_compress_and_decompress_a_file_in_CS_compres_ek1kgm.webp"
+cover: "https://res.cloudinary.com/dg74fhkvn/image/upload/f_auto,q_auto,w_800/How_to_compress_and_decompress_a_file_in_CS_compres_ek1kgm.webp"
+thumbnail: "https://res.cloudinary.com/dg74fhkvn/image/upload/f_auto,q_auto,w_300/How_to_compress_and_decompress_a_file_in_CS_compres_ek1kgm.webp"
 categories: ["Programming"]
 tags: ["CSharp", "Compression"]
 ---
