@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on 다물의 디지털 세상</title>
+    <link>http://localhost:1313/categories/story/</link>
+    <description>Recent content in Story on 다물의 디지털 세상</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 29 Jan 2026 18:11:10 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo로 블로그 시작하기</title>
+      <link>http://localhost:1313/posts/story/my-first-post/</link>
+      <pubDate>Thu, 29 Jan 2026 18:11:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/story/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;첫-포스트입니다&#34;&gt;첫 포스트입니다&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%b2%ab-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ec%9e%85%eb%8b%88%eb%8b%a4&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Hugo로 만든 첫 Post 입니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
