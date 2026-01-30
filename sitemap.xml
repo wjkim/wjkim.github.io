@@ -2,22 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wjkim.github.io/blog/how_to_compress_and_decompress_a_file_in_cs/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-01-29T15:01:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/</loc>
+    <loc>//localhost:1313/posts/programming/how_to_compress_and_decompress_a_file_in_cs/</loc>
     <lastmod>2026-01-29T15:01:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/posts/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2026-01-29T15:01:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/blog/my-first-post/</loc>
+    <loc>//localhost:1313/tags/compression/</loc>
+    <lastmod>2026-01-29T15:01:35+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/csharp/</loc>
+    <lastmod>2026-01-29T15:01:35+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-01-29T15:01:35+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/programming/</loc>
+    <lastmod>2026-01-29T15:01:35+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2026-01-29T15:01:35+09:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
     <lastmod>2026-01-29T15:00:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/categories/</loc>
+    <loc>//localhost:1313/posts/story/my-first-post/</loc>
+    <lastmod>2026-01-29T15:00:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/search/</loc>
+    <loc>//localhost:1313/categories/story/</loc>
+    <lastmod>2026-01-29T15:00:35+09:00</lastmod>
   </url><url>
-    <loc>https://wjkim.github.io/tags/</loc>
+    <loc>//localhost:1313/search/</loc>
   </url>
 </urlset>

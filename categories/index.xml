@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Damul&#39;s Story</title>
-    <link>https://wjkim.github.io/categories/</link>
-    <description>Recent content in Categories on Damul&#39;s Story</description>
+    <title>Categories on </title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
-    <atom:link href="https://wjkim.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jan 2026 15:01:35 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/categories/programming/</link>
+      <pubDate>Thu, 29 Jan 2026 15:01:35 +0900</pubDate>
+      <guid>//localhost:1313/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>//localhost:1313/categories/story/</link>
+      <pubDate>Thu, 29 Jan 2026 15:00:35 +0900</pubDate>
+      <guid>//localhost:1313/categories/story/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

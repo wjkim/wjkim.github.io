@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Damulstory - Search on Damul&#39;s Story</title>
-    <link>https://wjkim.github.io/search/</link>
-    <description>Recent content in Damulstory - Search on Damul&#39;s Story</description>
+    <title>Damulstory - Search on </title>
+    <link>//localhost:1313/search/</link>
+    <description>Recent content in Damulstory - Search on </description>
     <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
-    <atom:link href="https://wjkim.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="//localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

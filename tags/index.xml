@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Damul&#39;s Story</title>
-    <link>https://wjkim.github.io/tags/</link>
-    <description>Recent content in Tags on Damul&#39;s Story</description>
+    <title>Tags on </title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
-    <atom:link href="https://wjkim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jan 2026 15:01:35 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compression</title>
+      <link>//localhost:1313/tags/compression/</link>
+      <pubDate>Thu, 29 Jan 2026 15:01:35 +0900</pubDate>
+      <guid>//localhost:1313/tags/compression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSharp</title>
+      <link>//localhost:1313/tags/csharp/</link>
+      <pubDate>Thu, 29 Jan 2026 15:01:35 +0900</pubDate>
+      <guid>//localhost:1313/tags/csharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/tags/blog/</link>
+      <pubDate>Thu, 29 Jan 2026 15:00:35 +0900</pubDate>
+      <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
